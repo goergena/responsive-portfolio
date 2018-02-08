@@ -23,10 +23,10 @@ header {
     background: #fff;
     overflow: auto;
     border-bottom: 2px solid #ccc;
-    /*
+    
     position: fixed;
     z-index: 99; 
-    width: 100%; */
+    width: 100%; 
 }
 
 .general {
@@ -37,10 +37,10 @@ header {
 
 }
 
-/*
+
 .main-content {
     padding-top: 130px;
-} */
+} 
 
 h1 {
     float: left;
@@ -55,8 +55,6 @@ h1 {
 nav {
     float: right;
     padding: 40px 0px;
-   /* width: 270px;
-    text-justify: auto; */
 }
 
 nav a {
